@@ -1,1 +1,3 @@
 # The-Riddler-FiveThirtyEight
+
+The Riddler is a math related weekly puzzle presented by FiveThirtyEight that I have become slightly addicted to. These are my Python scripts used to solve some of them...
