@@ -1,6 +1,6 @@
 # The-Riddler-FiveThirtyEight
 
-The Riddler is a math related weekly puzzle presented by FiveThirtyEight that I have become slightly addicted to. These are my Python scripts used to solve some of them...
+The Riddler is a math related weekly puzzle presented by FiveThirtyEight that I have become slightly addicted to. These are some of my Python scripts used to solve them...
 
 ### 2016-02-05-stuck-in-traffic.py
 - Original FiveThirtyEight post: http://fivethirtyeight.com/features/how-many-cars-will-get-stuck-in-traffic/
