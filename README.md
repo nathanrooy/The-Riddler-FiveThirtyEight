@@ -14,7 +14,7 @@ The Riddler is a math related weekly puzzle presented by FiveThirtyEight that I 
 - My blog post: http://thrustvector.tumblr.com/post/139389424165/fivethirtyeight-traffic-riddle-solution
 - Notes: I got the correct answer but through a brute force methodology...
 
-### 2016-07-08-laser-pentagon.py
+### 2016-07-08/main.py
 - Original Question:
 > The archvillain Laser Larry threatens to imminently zap Riddler Headquarters (which, seen from above, is shaped like a regular pentagon with no courtyard or other funny business). He plans to do it with a high-powered, vertical planar ray that will slice the building exactly in half by area, as seen from above. The building is quickly evacuated, but not before in-house mathematicians move the most sensitive riddling equipment out of the places in the building that have an extra high risk of getting zapped.
 >
