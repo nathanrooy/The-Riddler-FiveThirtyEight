@@ -2,6 +2,8 @@
 
 The Riddler is a math related weekly puzzle presented by FiveThirtyEight that I have become slightly addicted to. These are some of my Python scripts used to solve them...
 
+_Horizontal line :_
+
 ### 2016-02-05
 There is a very long, straight highway with some number of cars (N) placed somewhere along it, randomly. The highway is only one lane, so the cars can’t pass each other. Each car is going in the same direction, and each driver has a distinct positive speed at which she prefers to travel. Each preferred speed is chosen at random. Each driver travels at her preferred speed unless she gets stuck behind a slower car, in which case she remains stuck behind the slower car. On average, how many groups of cars will eventually form? (A group is one or more cars travelling at the same speed.)
 
