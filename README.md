@@ -15,6 +15,13 @@ The Riddler is a math related weekly puzzle presented by FiveThirtyEight that I 
 - Notes: I got the correct answer but through a brute force methodology...
 
 ### 2016-07-08-laser-pentagon.py
+- Original Question:
+> The archvillain Laser Larry threatens to imminently zap Riddler Headquarters (which, seen from above, is shaped like a regular pentagon with no courtyard or other funny business). He plans to do it with a high-powered, vertical planar ray that will slice the building exactly in half by area, as seen from above. The building is quickly evacuated, but not before in-house mathematicians move the most sensitive riddling equipment out of the places in the building that have an extra high risk of getting zapped.
+>
+> _Where are those places_, and how much riskier are they than the safest spots? (It’s fine to describe those places qualitatively.)
+> 
+> _Extra credit_: Get quantitative! Seen from above, how many high-risk points are there? If there are infinitely many, what is their total area?
+
 - Original FiveThirtyEight post: http://fivethirtyeight.com/features/can-you-save-riddler-headquarters-from-laser-larry-please/ 
 - My blog post: http://thrustvector.tumblr.com/post/147154860170/fivethirtyeight-riddler-july-8-2016-pentagon-laser
 - Notes: I ended up winning this week!
