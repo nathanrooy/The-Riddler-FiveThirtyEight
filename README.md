@@ -11,7 +11,7 @@ The Riddler is a math related weekly puzzle presented by FiveThirtyEight that I 
 > For example, if the car in the very front happens to be slowest, there will be exactly one group — everybody will eventually pile up behind the slowpoke. If the cars happen to end up in order, fastest to slowest, there will be _N_ groups — no car ever gets stuck behind a slower car.
 
 - Original FiveThirtyEight post: http://fivethirtyeight.com/features/how-many-cars-will-get-stuck-in-traffic/
-- My blog post: http://thrustvector.tumblr.com/post/139389424165/fivethirtyeight-traffic-riddle-solution
+- My blog post: https://nathanrooy.github.io/posts/2016-02-05/the-riddler/
 - Notes: I got the correct answer but through a brute force methodology...
 
 - - - -
@@ -25,5 +25,5 @@ The Riddler is a math related weekly puzzle presented by FiveThirtyEight that I 
 > _Extra credit_: Get quantitative! Seen from above, how many high-risk points are there? If there are infinitely many, what is their total area?
 
 - Original FiveThirtyEight post: http://fivethirtyeight.com/features/can-you-save-riddler-headquarters-from-laser-larry-please/ 
-- My blog post: http://thrustvector.tumblr.com/post/147154860170/fivethirtyeight-riddler-july-8-2016-pentagon-laser
+- My blog post: https://nathanrooy.github.io/posts/2016-07-08/the-riddler/
 - Notes: I ended up winning this week!
